@@ -20,5 +20,4 @@ public class FrogMain extends Application
     {
         launch(args);
     }
-
 }
